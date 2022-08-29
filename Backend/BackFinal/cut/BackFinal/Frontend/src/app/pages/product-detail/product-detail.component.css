@@ -1,0 +1,12 @@
+img {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.items-count{
+  max-width: 60px;
+}
+
+.btn-buy{
+  width: 100%;
+}
